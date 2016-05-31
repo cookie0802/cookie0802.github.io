@@ -1,13 +1,7 @@
 # Site settings
-title: 啦啦啦
-email: 13842979220@163.com
-description: > # this means to ignore newlines until "baseurl:"
- 一个喜欢按快门的张饼干
+title: 有多久没见你
+description: 一个喜欢按快门的张饼干^^
+keywords: Modern, Blogging, Fun
+author: cookie
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cookie0802.github.io/" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  cookie0802
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+url: "" # the base hostname & protocol for your site

@@ -1,7 +1,7 @@
 # Site settings
-title: 有多久没见你
-description: 一个喜欢按快门的张饼干^^
+title: Modern Blog
+description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
-author: cookie
+author: Wferr
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

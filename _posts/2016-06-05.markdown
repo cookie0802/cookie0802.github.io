@@ -1,0 +1,16 @@
+---
+title:  "2016 06 05"
+subtitle: "red"
+author: "cookie"
+avatar: "img/authors/touxiang.jpg"
+image: "img/c.jpg"
+date:   2016-06-05 12:12:12
+---
+
+### 宋冬野
+安河桥
+
+### 我知道
+那些夏天
+
+就像你一样回不来

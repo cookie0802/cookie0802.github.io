@@ -1,0 +1,14 @@
+---
+title:  "2016 06 06"
+subtitle: "pink"
+author: "cookie"
+avatar: "img/authors/touxiang.jpg"
+image: "img/b.jpg"
+date:   2015-06-06 12:12:12
+---
+
+### 嗯嗯嗯
+黑
+
+### 啊啊啊
+白

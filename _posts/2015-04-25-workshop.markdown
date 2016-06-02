@@ -1,11 +1,13 @@
 ---
-title:  "旅行的意义"
-subtitle: "陈绮贞"
-author: "cookie"
+title:  "A Craftsman Workshop"
+subtitle: "It's always a bit messy"
+author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2016-06-03 12:12:12
+date:   2015-04-25 12:12:12
 ---
+
+
 
 ### <<旅行的意义>>
 

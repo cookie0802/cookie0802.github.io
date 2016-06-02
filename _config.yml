@@ -1,7 +1,7 @@
 # Site settings
-title: 张饼干的博客啦啦啦啦
-description: 时光会老去 影像能长存
+title: Modern Blog
+description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
-author: cookie
+author: Wferr
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

@@ -1,6 +1,6 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
+title:  "旅行的意义"
+subtitle: "陈绮贞"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"

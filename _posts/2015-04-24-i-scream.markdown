@@ -1,6 +1,6 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "从前慢"
+subtitle: "刘胡轶"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
